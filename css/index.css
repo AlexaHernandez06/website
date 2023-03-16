@@ -28,11 +28,11 @@ body {
 
 .bg .content {
     position: fixed;
-    top: 10;
+    top: 0;
 }
 
 .link-container {
     display: flex;
     justify-content: space-between;
-    width: 90vw;
+    width: 80vw;
 }
