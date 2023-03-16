@@ -26,12 +26,13 @@ body {
     justify-content: space-between;
 }
 
-.bg.content {
-    justify-content: center;
+.bg .content {
     position: fixed;
+    top: 10;
 }
 
 .link-container {
     display: flex;
     justify-content: space-between;
+    width: 90vw;
 }
