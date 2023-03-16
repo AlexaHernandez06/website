@@ -4,13 +4,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0;
 
 }
 
 .bg {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between 50px;
     width: 100vw;
     height: 100vh;
     background-image: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/px1641331-image-kwypfqg1.jpg?w=1200&h=1200&dpr=1&fit=clip&crop=default&fm=jpg&q=75&vib=3&con=3&usm=15&cs=srgb&bg=F4F4F3&ixlib=js-2.2.1&s=74eaea1a3042bcdb9bf4c8b194fecc8a');
