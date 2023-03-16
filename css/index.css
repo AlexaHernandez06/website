@@ -31,8 +31,7 @@ body {
     position: fixed;
 }
 
-.bg.link-container {
+.link-container {
     display: flex;
     justify-content: space-between;
-    position: fixed;
 }
