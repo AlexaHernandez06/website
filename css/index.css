@@ -22,4 +22,6 @@ body {
 .link a {
     text-decoration: none;
     color: grey;
+    justify-content: space-between;
+    p
 }
