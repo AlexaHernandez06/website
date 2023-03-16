@@ -29,6 +29,7 @@ body {
 .bg .content {
     position: fixed;
     top: 0;
+    color: grey;
 }
 
 .link-container {
