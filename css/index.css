@@ -27,7 +27,7 @@ body {
 }
 
 .content {
-    justify content: center;
+    justify-content: center;
     position: fixed;
 }
 
