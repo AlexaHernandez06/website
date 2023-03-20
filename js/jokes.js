@@ -1,6 +1,8 @@
 const jokeEl = document.getElementById('joke')
 const jokeBtn = document.getElementById('jokeBtn')
 
+generateJoke()
+
 jokeBtn.addEventListener('click', generateJoke)
 
 async function generateJoke(){
@@ -9,5 +11,5 @@ async function generateJoke(){
     })
 
     const data = await response.json()
-    jokeElement.innerHTML = data.joke
+    jokeEl.innerHTML = data.joke
 }
