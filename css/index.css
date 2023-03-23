@@ -23,8 +23,6 @@ body {
 
 .link a {
     font-family: 'Gloock', serif;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Rubik Iso', cursive;
     text-decoration: none;
     color: grey;
     justify-content: space-between;
